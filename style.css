@@ -28,6 +28,7 @@
 .navbar ul li{
      list-style: none; 
      display: inline-block;
+     font-weight: 500;
      margin: 20px;
 }
 
@@ -38,6 +39,7 @@
 }
 .navbar ul li a:hover{
      color: #009688;
+     font-weight: 700;
 }
 .navbar ul li::after{
     content: '';
